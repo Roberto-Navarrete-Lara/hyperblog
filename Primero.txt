@@ -1,13 +1,17 @@
 Este es un primer archivo en Visual Studio Code para el curso de Git y GitHub
 
+Primera versión hecha el 27 de mayo de 2018
+
 Elaborado por Roberto Navarrete
 
 Nacido en México el 14 de enero de 1967
-
-Primera versión hecha el 27 de mayo de 2018
 
 Este archivo ya contiene modificaciones.
 
 Actualmente trabajo para Metrocis. Empresa radicada en Argentina
 
+Antes trabajé para Seidor México
+
 Conozco un poco de VMware e infraesctructura de red
+
+También algo de pfSense
