@@ -1,0 +1,5 @@
+Este es un primer archivo en Visual Studio Code para el curso de Git y GitHub
+
+Elaborado por Roberto Navarrete
+
+Primera versión hecha el 27 de mayo de 2018
