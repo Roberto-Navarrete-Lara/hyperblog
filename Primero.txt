@@ -20,3 +20,5 @@ Por otro lado, tengo conocimientos de fotografía y edición con Photoshop
 
 
 Estas son lineas añadidas simulando un usuario "Anita" desde otra máquina pero al mismo repositorio
+
+Esta linea la añadi luego de eliminar Anita y volerla adar de alta
