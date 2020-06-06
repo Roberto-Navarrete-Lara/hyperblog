@@ -34,6 +34,7 @@ body
 
 #container
 {
+    background: white;
     width: 70%;
     padding: 0;
     text-align: left;
@@ -48,18 +49,5 @@ body
 
 #post
 {
-<<<<<<< HEAD
-	padding: 1em;
-}
-
-#footer
-{
-	background: #776;
-	color: white;
-	text-align: center;
-	padding: 0.5em;
-=======
-  background: white;
   padding: 1em;
->>>>>>> d5efcc6e7fdf3d176ea0beb97dad0e671c34c13c
 }
